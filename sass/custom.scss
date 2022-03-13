@@ -23,13 +23,19 @@
 }
 
 .efeito:hover{
-	background-color: #F2AD94;
+	background: linear-gradient(0deg, rgb(248, 134, 109) 0%, rgba(242,173,148,1) 100%);
 }
 
 .efeito:hover h6{
 	color: #fff;
 }
 .efeito:hover p{
+	color: #fff;
+}
+.efeito2{
+	color:#F26A4B;	
+}
+.efeito:hover .efeito2{
 	color: #fff;
 }
 .spaneador{
@@ -86,7 +92,7 @@ $font-family-sans-serif: 'Nunito Sans', sans-serif;
 
 $primary: #F26A4B;
 $secondary: #F2AD94;
-$success: #fdf4f0;
+$success:#fff6f4;
 $dark:#0D0D0D;
 
 
